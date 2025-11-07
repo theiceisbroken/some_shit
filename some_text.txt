@@ -4,3 +4,4 @@ The third text is added
 The fourth text is added
 The fifth text is added
 The sixth text is added
+The seventh text is added
