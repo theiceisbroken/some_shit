@@ -1,3 +1,4 @@
 Some text
 Another text
 The third text is added
+The fourth text is added
