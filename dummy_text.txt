@@ -4,3 +4,4 @@ The third dummy text is added!
 The fourth dummy text is added!
 The fifth dummy text is added!
 The sixth dummy text is added!
+The seventh dummy text is added from main!
